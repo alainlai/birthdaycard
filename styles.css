@@ -1,0 +1,46 @@
+body {
+    background: linear-gradient(blue, white);
+    background-repeat: no-repeat;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 80px;
+    color: white;
+}
+
+#bday-pers-img {
+    background-image: url(cat1.jpeg);
+    width: 250px;
+    height: 250px;
+    border: 10px solid wheat;
+    border-radius: 100%;
+}
+
+h2 {
+    color: wheat;
+    font-size: 50px;
+    text-shadow: 10px 10px black;
+}
+
+#gift-image {
+    background-image: url(gift1.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 250px;
+    height: 250px;
+    border: 10px solid wheat;
+}
+
+#gift-image:hover {
+    background-image: url(cat1.jpeg);
+}
+
+
