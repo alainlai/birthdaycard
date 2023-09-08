@@ -16,11 +16,20 @@ h1 {
 }
 
 #bday-pers-img {
-    background-image: url(cat1.jpeg);
+    background-image: url(tomcruise2.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     width: 250px;
     height: 250px;
     border: 10px solid wheat;
     border-radius: 100%;
+}
+
+#birth {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 50px auto;
 }
 
 h2 {
