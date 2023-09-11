@@ -39,7 +39,7 @@ h2 {
 }
 
 #gift-image {
-    background-image: url(gift1.jpeg);
+    background-image: url(gift.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -49,7 +49,7 @@ h2 {
 }
 
 #gift-image:hover {
-    background-image: url(cat1.jpeg);
+    background-image: url(tomcat.jpeg);
 }
 
 
